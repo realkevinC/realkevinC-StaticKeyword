@@ -23,7 +23,7 @@ public class Runner {
      */
     public static void changeClassVar(String in){
 
-        Class.global_var=in;
+        Class.global_var=in; 
         
     }
 }
